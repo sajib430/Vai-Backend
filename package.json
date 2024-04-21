@@ -1,0 +1,26 @@
+{
+  "name": "vai-backend",
+  "version": "1.0.0",
+  "description": "sajib das",
+  "main": "index.js",
+  "scripts": {
+    "test": "anything"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajib430/Vai-Backend.git"
+  },
+  "keywords": [
+    "sajib"
+  ],
+  "author": "sajib das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajib430/Vai-Backend/issues"
+  },
+  "homepage": "https://github.com/sajib430/Vai-Backend#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  }
+}
